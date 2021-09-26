@@ -2,7 +2,6 @@ import React from "react";
 import "./Band.css";
 
 const Band = (props) => {
- // console.log(props.band);
  const { name, origin, genre, formedYear, cost, img } = props.band;
 
  return (

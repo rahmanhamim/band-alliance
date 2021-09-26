@@ -3,8 +3,6 @@ import Selected from "../Selected/Selected";
 import "./Cart.css";
 
 const Cart = (props) => {
- // console.log(props.cart);
-
  let totalCost = 0;
  for (const band of props.cart) {
   totalCost = totalCost + band.cost;
