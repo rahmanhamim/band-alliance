@@ -1,0 +1,18 @@
+.selected-bands {
+ background-color: #202428;
+ color: white;
+ width: 18rem;
+ border-radius: 5px;
+}
+.selected-bands ul li {
+ /* padding: 0.5em; */
+}
+.selected-bands ul {
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+ padding: 0.5em;
+}
+.selected-band-img {
+ width: 40%;
+}

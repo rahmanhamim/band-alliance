@@ -1,0 +1,110 @@
+[
+  {
+    "name": "AC/DC",
+    "origin": "Sydney, Australia",
+    "genre": "Rock, Heavey metal",
+    "formedYear": 1973,
+    "cost": 650000,
+    "img": "https://i.ibb.co/ftfbfYn/ACDC.jpg",
+    "id": 555334123
+  },
+  {
+    "name": "Iron Maiden",
+    "origin": "London, United Kingdom",
+    "genre": "Heavey metal",
+    "formedYear": 1975,
+    "cost": 710000,
+    "img": "https://i.ibb.co/KVY34Yg/iron-maiden.jpg",
+    "id": 555234123
+  },
+  {
+    "name": "Megadeth",
+    "origin": "California, US",
+    "genre": "Thrash metal, Heavey metal",
+    "formedYear": 1983,
+    "cost": 850000,
+    "img": "https://i.ibb.co/b3pK1CD/megadeth.jpg",
+    "id": 555347014
+  },
+  {
+    "name": "Deep Purple",
+    "origin": "London, United Kingdom",
+    "genre": "Heavy metal, Hard rock",
+    "formedYear": 1968,
+    "cost": 850000,
+    "img": "https://i.ibb.co/TWZp0jR/deep-purrle.jpg",
+    "id": 5234534123
+  },
+  {
+    "name": "Parkway Drive",
+    "origin": "Australia",
+    "genre": "Metalcore",
+    "formedYear": 2003,
+    "cost": 350000,
+    "img": "https://i.ibb.co/DD48W7m/parkwa-drive.jpg",
+    "id": 964554123
+  },
+  {
+    "name": "Architects",
+    "origin": "United Kingdom",
+    "genre": "Metalcore",
+    "formedYear": 2004,
+    "cost": 260000,
+    "img": "https://i.ibb.co/tD8fSjH/architects.jpg",
+    "id": 524534123
+  },
+  {
+    "name": "Metallica",
+    "origin": "U.S",
+    "genre": "Heavy metal",
+    "formedYear": 2004,
+    "cost": 780000,
+    "img": "https://i.ibb.co/QJsKRs7/metallica.jpg",
+    "id": 7775334123
+  },
+  {
+    "name": "Coldplay",
+    "origin": "England",
+    "genre": "Rock",
+    "formedYear": 1996,
+    "cost": 620000,
+    "img": "https://i.ibb.co/Fsp0qXD/LOS-ANGELES-CA-NOVEMBER-22-L-R-Recording-artists-Jonny-Buckland-Chris-Martin-Will-Champion-and-Guy-B.jpg",
+    "id": 74682922
+  },
+  {
+    "name": "Dream Theater",
+    "origin": "U.S",
+    "genre": "Progressive metal",
+    "formedYear": 1985,
+    "cost": 880000,
+    "img": "https://i.ibb.co/6PtMRNF/dream-theater.jpg",
+    "id": 7461235
+  },
+  {
+    "name": "Slipknot",
+    "origin": "Heavy metal",
+    "genre": "Progressive metal",
+    "formedYear": 1995,
+    "cost": 630000,
+    "img": "https://i.ibb.co/J3zk0f0/Slipknot.jpg",
+    "id": 7499332922
+  },
+  {
+    "name": "Eluveitie",
+    "origin": "Switzerland",
+    "genre": "Folk metal",
+    "formedYear": 2002,
+    "cost": 870000,
+    "img": "https://i.ibb.co/TgDJddB/Eluveitie.jpg",
+    "id": 79472912
+  },
+  {
+    "name": "Rammstein",
+    "origin": "Germany",
+    "genre": "Industrial metal",
+    "formedYear": 1994,
+    "cost": 580000,
+    "img": "https://i.ibb.co/GVKJhCJ/Rammstein.jpg",
+    "id": 512466442922
+  }
+]

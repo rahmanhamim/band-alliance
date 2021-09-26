@@ -1,0 +1,48 @@
+.logo {
+ max-width: 40px;
+ margin: 0 0.2em;
+}
+.nav-logo {
+ font-family: "Bebas Neue", cursive;
+ font-size: 2rem;
+}
+.btn-regular {
+ color: #ffce2b;
+ background-color: rgb(104, 104, 104);
+ padding: 0.3em 1em;
+ border: none;
+ border-radius: 5px;
+ font-size: 1.2rem;
+ margin: 0 1em;
+ transition: all 300ms;
+}
+.btn-regular:hover {
+ background-color: #000000;
+ color: #ffce2b;
+}
+.display-section {
+ background-color: #b2afac;
+ color: white;
+ border-top: 2px solid #ffce2b;
+ /* border-bottom: 4px solid #f8f8f8; */
+}
+.search-input {
+ border-radius: 5px;
+ line-height: 28px;
+ border: none;
+ padding: 0 1em;
+}
+.btn-search {
+ color: #ffce2b;
+ background-color: #212529;
+ border: none;
+ padding: 0.2em 1em;
+ line-height: 25px;
+ border-radius: 5px;
+ font-size: 1.2rem;
+ margin: 0 0.5em;
+ transition: all 300ms;
+}
+.highlight-text {
+ color: #ffce2b;
+}

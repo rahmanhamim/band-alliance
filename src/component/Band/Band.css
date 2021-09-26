@@ -1,0 +1,15 @@
+.img-card {
+ padding: 1em;
+}
+.img-card img {
+ border-radius: 8px;
+}
+.hire-btn {
+ background-color: #fac826;
+ color: white;
+ padding: 0.2em 1em;
+ border: none;
+ border-radius: 5px;
+ font-size: 1.2rem;
+ font-weight: bold;
+}
